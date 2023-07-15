@@ -145,4 +145,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: username/taski_gateway:latest
+          tags: dantefanis/taski_gateway:latest
